@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Loan Qualifier Application. test change testing
+"""Loan Qualifier Application. modify
 
 This is a command line application to match applicants with qualifying loans.
 
